@@ -1,7 +1,8 @@
-# Skillbox_weblayout_3.0_Module-6_task-2_Gazprom-bank_Forms
+# En: Skillbox_weblayout_3.0_Module-6_task-2_Gazprom-bank_Forms
+# Ru: Skillbox_weblayout_3.0_Модуль-6_Задание-2_Газпромбанк_Формы
 
-### Пожалуйста, поставьте звезду ⭐ если этот проект Вас заинтересовал
-### Please give this project a star ⭐ if you found it interesting.
+#### Пожалуйста, поставьте звезду ⭐ если этот проект Вас заинтересовал
+#### Please give this project a star ⭐ if you found it interesting.
 
 En: Completed coursework for the Skillbox Web Development 3.0 course, Module 6, Assignment 2: Single-page layout for the Gazprombank site forms.
 
@@ -26,7 +27,10 @@ Ru: Ссылка на макет c портфолио: https://www.figma.com/des
 - Media Queries
 - Figma (design mockup)
 
-### Ru: Лицензия
+## En: License
+This project is for educational purposes only. Do not copy or redistribute without permission.
+
+## Ru: Лицензия
 Этот проект предназначен исключительно для образовательных целей. Не копируйте и не распространяйте без разрешения.
 
 ## En: Site Gazprom bank / Ru: Сайт Газпром бaнк
